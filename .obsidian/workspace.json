@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "b6b1e9b0e72be52e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f08e4dac014c7c12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aceb11290dc35b2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Home/الجوالة"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9669efc147ed9899",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6b1753e68667664",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8c0c0b136271bfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cbf71f1389ebfdc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9023cbc4c9eb4375",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2757f659a2bedaa2",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42c45960c2e26df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef21da796eb418df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d0d0856878f49ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "329a7fd3ddaf68d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "51f5da0fbba8f0af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3891d1f512bff1ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5fb40a00bcacc94f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "2757f659a2bedaa2",
+  "lastOpenFiles": [
+    "README.md",
+    "Books/كتاب الكشف للفتيان لبادن باول النسخة الدولية تعريب محمد سالم 1956.pdf",
+    "Books/كتاب العاب الكشافة.pdf",
+    "Books/دليل_كشاف_متقدم_Pages_1_50_Flip_PDF_Download_FlipHTML5.pdf",
+    "Books/Rover-Guide-leader.pdf",
+    "Books/Leader-Boys-guide.pdf",
+    "Books/Educational-Leader-guide-for-scouts.pdf",
+    "Books/Educational-guide-for-cubs-leaders.pdf",
+    "Books/تكوين العشيرة الكشفية لمرحلة الجوالة.pdf",
+    "Books/الخطة العامة ومجالاتها في إدارة العشيرة الكشفية مرحلة الجوالة .pdf",
+    "Books/Noor-Book.com  الخطة العامة ومجالاتها في إدارة العشيرة الكشفية مرحلة الجوالة (1).pdf",
+    "Home/الجوالة/التأهيل/التأهيل.md",
+    "Home/Untitled.md",
+    "Spaces/Untitled.md",
+    "Untitled.md",
+    "Welcome.md"
+  ]
+}
