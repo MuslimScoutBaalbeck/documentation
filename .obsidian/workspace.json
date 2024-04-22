@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f08e4dac014c7c12",
+        "id": "be74286981034a69",
         "type": "tabs",
         "children": [
           {
-            "id": "0aceb11290dc35b2",
+            "id": "20bb6685547d9bbf",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Home/الجوالة"
+                "file": "Home/الجوالة/التأهيل/مرحلة القبول.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Home/الجوالة/التأهيل/مرحلة القبول.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Home/الجوالة/التأهيل/مرحلة القبول.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Home/الجوالة/التأهيل/مرحلة القبول.md"
+              }
             }
           },
           {
@@ -159,20 +165,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2757f659a2bedaa2",
+  "active": "20bb6685547d9bbf",
   "lastOpenFiles": [
-    "README.md",
     "Books/كتاب الكشف للفتيان لبادن باول النسخة الدولية تعريب محمد سالم 1956.pdf",
-    "Books/كتاب العاب الكشافة.pdf",
-    "Books/دليل_كشاف_متقدم_Pages_1_50_Flip_PDF_Download_FlipHTML5.pdf",
+    "Home/الجوالة/التأهيل/مرحلة القبول.md",
+    "Home/الجوالة/التأهيل/المستندات/قانون الكشاف.md",
+    "Home/الجوالة/التأهيل/المستندات/بنود الوعد الكشفي العالمي.md",
+    "Home/الجوالة/التأهيل/المستندات/عهد الكشاف المسلم.md",
+    "Spaces",
+    "المناهج/الجوالة/IMG20240422090337.jpg",
+    "Home/الجوالة/التأهيل/المستندات",
+    "المناهج/الجوالة/IMG20240422090346.jpg",
     "Books/Rover-Guide-leader.pdf",
+    "المناهج/الجوالة/IMG20240422090405.jpg",
+    "المناهج/الجوالة/IMG20240422090354.jpg",
+    "المناهج/الجوالة/IMG20240422090350.jpg",
+    "المناهج/الجوالة",
+    "المناهج",
     "Books/Leader-Boys-guide.pdf",
     "Books/Educational-Leader-guide-for-scouts.pdf",
     "Books/Educational-guide-for-cubs-leaders.pdf",
-    "Books/تكوين العشيرة الكشفية لمرحلة الجوالة.pdf",
     "Books/الخطة العامة ومجالاتها في إدارة العشيرة الكشفية مرحلة الجوالة .pdf",
-    "Books/Noor-Book.com  الخطة العامة ومجالاتها في إدارة العشيرة الكشفية مرحلة الجوالة (1).pdf",
-    "Home/الجوالة/التأهيل/التأهيل.md",
+    "README.md",
     "Home/Untitled.md",
     "Spaces/Untitled.md",
     "Untitled.md",
